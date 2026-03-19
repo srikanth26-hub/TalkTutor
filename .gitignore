@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node (for the frontend folder)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
